@@ -1,0 +1,13 @@
+.DS_Store
+.svn
+.settings
+target
+*.iml
+*.project
+.idea
+*target
+*.settings
+*.classpath
+logs
+release.properties
+*.xml.releaseBackup
