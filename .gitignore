@@ -8,6 +8,7 @@ target
 *target
 *.settings
 *.classpath
+*.factorypath
 logs
 release.properties
 *.xml.releaseBackup
